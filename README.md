@@ -1,6 +1,6 @@
 # HR Project - Human Resources Management
 
-This project is a human resources management application developed with **Spring Boot** and **React*. It allows performing CRUD operations (Create, Read, Update, Delete) on employees, using a data model based on `Employee` and `EmployeeDto`.
+This project is a human resources management application developed with **Spring Boot** and **React**. It allows performing CRUD operations (Create, Read, Update, Delete) on employees, using a data model based on `Employee` and `EmployeeDto`.
 
 ## Backend:
 ## Features
